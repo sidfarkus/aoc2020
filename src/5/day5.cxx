@@ -1,3 +1,5 @@
+// g++ day5.cxx -o day5 --std=c++11 && ./day5 "$(cat input)"
+
 #include <iostream>
 #include <bitset>
 #include <sstream>
