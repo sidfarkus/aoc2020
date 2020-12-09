@@ -15,8 +15,8 @@ While I'd like to do different languages per day it seems likely that the exerci
 | 5    | C++              | ✔️    |
 | 6    | Perl             | ✔️    |
 | 7    | Scala            | ✔️    |
-| 8    | C#               |      |
-| 9    | Nim              |      |
+| 8    | C#               | ✔️    |
+| 9    | Nim              | ✔️    |
 | 10   | Powershell       |      |
 | 11   | Python           |      |
 | 12   | ANSI C           |      |
