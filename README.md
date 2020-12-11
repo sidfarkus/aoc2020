@@ -1,10 +1,10 @@
 # Advent of Code 2020
 
-Solutions for the Advent of Code 2020 problems.  It is unlikely there will be both complete solutions for all problems and they are likely to stress brevity versus computational complexity (speed).  I hope to have solutions written in a few different languages but it is unlikely I will do all of the days completely.
+Solutions for the Advent of Code 2020 problems in a variety of languages.
 
 ## Possible languages
 
-While I'd like to do different languages per day it seems likely that the exercises will build upon each other and so this plan is only so I can track what languages I'd like to try over the course of the AOC.
+While I'd like to do different languages per day it seems likely that the exercises will build upon each other and so this plan is only so I can track what languages I'd like to try over the course of the AOC. Less interesting languages (C, Java...) will likely drop for more interesting ones in the event that I'd like to reuse code.
 
 | Day  | Language attempt | Done |
 | ---- | ---------------- | ---- |
@@ -17,7 +17,7 @@ While I'd like to do different languages per day it seems likely that the exerci
 | 7    | Scala            | ✔️    |
 | 8    | C#               | ✔️    |
 | 9    | Nim              | ✔️    |
-| 10   | Powershell       |      |
+| 10   | Powershell       | ✔️    |
 | 11   | Python           |      |
 | 12   | ANSI C           |      |
 | 13   | Crystal          |      |
