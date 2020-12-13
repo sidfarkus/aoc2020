@@ -19,7 +19,7 @@ While I'd like to do different languages per day it seems likely that the exerci
 | 9    | Nim              | ✔️    |
 | 10   | Powershell       | ✔️    |
 | 11   | Python           | ✔️    |
-| 12   | ANSI C           |      |
+| 12   | ANSI C           | ✔️    |
 | 13   | Crystal          |      |
 | 14   | Groovy           |      |
 | 15   | Haskell          |      |
