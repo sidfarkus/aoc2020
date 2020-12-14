@@ -27,7 +27,7 @@ While I'd like to do different languages per day it seems likely that the exerci
 | 17   | Swift            |      |
 | 18   | R                |      |
 | 19   | F#               |      |
-| 20   | Java             |      |
+| 20   | Elixir           |      |
 | 21   | Rust             |      |
 | 22   | D                |      |
 | 23   | Kotlin           |      |
